@@ -3,8 +3,8 @@
 // @author      phija
 // @namespace   http://www.phiworld.de
 // @description Opens collapsed lines in TimeEfforts script
-// @include     http://tracker.atrics.loc/plugin.php?page=TimeEffortAnalysis/developerView
-// @include     http://tracker.atrics.loc/plugin.php?page=TimeEffortAnalysis/productView
+// @include     http://mantis-URL/plugin.php?page=TimeEffortAnalysis/developerView
+// @include     http://mantis-URL/plugin.php?page=TimeEffortAnalysis/productView
 // @grant       none
 // version      0.1.0
 // ==/UserScript==
